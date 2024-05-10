@@ -1,8 +1,0 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
-
-nc: 18
-names: ['I', 'apple', 'can', 'get', 'good', 'have', 'help', 'how', 'like', 'love', 'my', 'no', 'sorry', 'thank-you', 'want', 'yes', 'you', 'your']
-
-
